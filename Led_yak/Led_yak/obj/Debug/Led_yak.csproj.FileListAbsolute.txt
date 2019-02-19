@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\bin\Debug\Led_yak.exe
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\bin\Debug\Led_yak.pdb
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.Form1.resources
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.exe
+C:\Users\Lenovo\Desktop\Dağıtıködev\Dağıtıkuyg2\Led_yak\Led_yak\obj\Debug\Led_yak.pdb

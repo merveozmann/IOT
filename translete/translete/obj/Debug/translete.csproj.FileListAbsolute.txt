@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\bin\Debug\translete.exe.config
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\bin\Debug\translete.exe
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\bin\Debug\translete.pdb
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.Form1.resources
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.exe
+C:\Users\Lenovo\Desktop\Dağıtıködev\translete\translete\obj\Debug\translete.pdb

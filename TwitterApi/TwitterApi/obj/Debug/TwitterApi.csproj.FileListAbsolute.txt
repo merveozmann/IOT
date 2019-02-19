@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\TwitterApi.exe.config
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\TwitterApi.exe
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\TwitterApi.pdb
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\Hammock.dll
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\TweetSharp.dll
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\Hammock.pdb
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\bin\Debug\TweetSharp.pdb
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.Form1.resources
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.exe
+C:\Users\Lenovo\Desktop\Dağıtıködev\TwitterApi\TwitterApi\obj\Debug\TwitterApi.pdb
